@@ -2,8 +2,6 @@
 
 </br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gon%C3%A7alves-4b19831b8/)<a href="mailto:brunosgoncalvez@gmail.com"><img alt="CSharp" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 <div align="">
   <a href="https://github.com/brunogoncalvez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoGoncalvez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
